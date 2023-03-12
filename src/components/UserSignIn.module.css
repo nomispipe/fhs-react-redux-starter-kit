@@ -1,0 +1,12 @@
+
+.input{
+    border-color: #2268FF;
+}
+    
+.form{
+    max-width: 10rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+}
